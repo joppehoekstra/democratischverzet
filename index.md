@@ -5,6 +5,9 @@ layout: home
 hero:
   name: 'Democratisch Verzet'
   tagline: De Nederlandse democratie is kapot. Het is tijd dat we weer met elkaar in gesprek gaan. Doe je mee?
+  image:
+    src: /logo.png
+    alt: 'Democratisch Verzet'
   actions:
     - theme: brand
       text: Lees onze verklaring van verzet

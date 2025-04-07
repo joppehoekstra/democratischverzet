@@ -18,17 +18,31 @@ export default defineConfig({
       {
         text: 'Wie zijn wij?',
         items: [
-          { text: 'Verklaring van verzet', link: '/verklaring' },
-          { text: 'Groepsafspraken', link: '/groepsafspraken' },
-          { text: 'Actieregels', link: '/actieregels' },
+          { text: '✌️ Verklaring van verzet', link: '/verklaring' },
+          { text: '❤️ Groepsafspraken', link: '/groepsafspraken' },
+          { text: '📢 Actieregels', link: '/actieregels' },
         ],
       },
       {
         text: 'Wat kan ik doen?',
         items: [
           {
-            text: 'Evenementen',
+            text: '📆 Evenementen',
             link: '/agenda',
+          },
+          {
+            text: '💬 Ga in WhatsApp groep',
+            link: 'https://chat.whatsapp.com/Km6yyOdlPr5G2vcvmyfAKp',
+          },
+        ],
+      },
+      {
+        text: 'Handleidingen',
+        collapsed: true,
+        items: [
+          {
+            text: '🎨 Huisstijl',
+            link: '/huisstijl',
           },
         ],
       },

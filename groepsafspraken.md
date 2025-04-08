@@ -10,5 +10,5 @@ Zo werken wij samen. We houden ons allemaal aan onze 10 groepsafspraken:
 6. Communiceer met handgebaren
 7. Gebruik je telefoon zo min mogelijk
 8. Verdeel duidelijke rollen
-9. Verdeel macht eerlijk (en wissel elkaar af?)
+9. Verdeel macht eerlijk
 10. Verwelkom iedereen

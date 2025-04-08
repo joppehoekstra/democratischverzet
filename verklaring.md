@@ -1,4 +1,9 @@
-<script setup>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
+<script setup>
+import { onMounted } from 'vue'
+onMounted(() => {
+var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}
+})
+</script>
 
 # Verklaring van Democratisch Verzet
 
@@ -8,7 +13,7 @@ Grote problemen in Nederland worden niet opgelost. Politici luisteren niet naar 
 
 ### Onze oplossing: Besluitgesprek in de grondwet
 
-We moeten weer met elkaar in gesprek gaan. Tijdens een besluitgesprek komen gewone Nederlanders bij elkaar. Samen bepalen we hoe wij Nederland mooier gaan maken.
+We moeten weer met elkaar in gesprek gaan. Tijdens een [besluitgesprek](/besluitgesprek) komen gewone Nederlanders bij elkaar. Samen bepalen we hoe wij Nederland mooier gaan maken.
 
 ### Ons bouwplan: Heel veel mensen bij elkaar brengen
 

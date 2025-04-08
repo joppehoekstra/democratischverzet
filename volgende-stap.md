@@ -18,4 +18,4 @@ hero:
 
 Kom samen met je vrienden naar een van onze evenementen en nodig hen ook uit voor onze WhatsApp groep met deze invite link:
 
-[democratischverzet.nl/whatsapp-invite](democratischverzet.nl/whatsapp-invite)
+[democratischverzet.nl/whatsapp-invite](https://democratischverzet.nl/whatsapp-invite)

@@ -4,7 +4,7 @@ We willen dat iedereen makkelijk mee kan doen met Democratisch Verzet. We voelen
 
 ## Onze strategie
 
-We hebben een uitgebreid plan geschreven. Het kost ongeveer 1 uur om te lezen. In dit plan lees je waarom wij denken dat de democratie in Nederland kapot is, en hoe wij dat gaan oplossen. Het plan is nog niet af. We hebben jou hulp nodig om het beter te maken. Heb je ideeën? Laat het ons weten!
+We hebben een uitgebreid plan geschreven. Het kost ongeveer 1 uur om te lezen. In dit plan lees je waarom wij denken dat de democratie in Nederland kapot is, en hoe wij dat gaan oplossen. Het plan is nog niet af. We zijn ook bezig met het maken van filmpjes, voor als je niet van lezen houdt. We hebben jou hulp nodig om het plan beter te maken. Heb je ideeën? Laat het ons weten!
 
 ✌️ [**Lees onze strategie**](https://docs.google.com/document/d/1jKKJ9TSNR6orGs0gb_NAYBJbsvE8_Bi3bxRq6xtRCpQ/edit?tab=t.hn7ogcihlppc)
 

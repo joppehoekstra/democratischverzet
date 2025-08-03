@@ -10,19 +10,19 @@ hero:
     alt: 'Democratisch Verzet'
   actions:
     - theme: brand
-      text: Lees onze verklaring van verzet
-      link: /verklaring
+      text: 💁 Wie zijn wij?
+      link: /over
     - theme: alt
-      text: Ga in WhatsApp groep
+      text: 💬 Ga in WhatsApp groep
       link: https://chat.whatsapp.com/Km6yyOdlPr5G2vcvmyfAKp
 
 features:
-  - title: '1. Het probleem'
-    details: Onze democratie is kapot
-  - title: '2. Onze oplossing'
-    details: Besluitgesprek in de grondwet
-  - title: '3. Ons bouwplan '
-    details: Heel veel mensen bij elkaar brengen
+  - title: '1️⃣ Onze democratie is kapot'
+    details: De politiek luistert niet naar ons en Nederland zit op slot.
+  - title: '2️⃣ Wij gaan weer naar elkaar luisteren'
+    details: We willen gehoord worden, dus gaan we met elkaar in gesprek.
+  - title: '3️⃣ Nederland is van ons allemaal'
+    details: Het is niet ok dat een klein groepje mensen de macht heeft.
 ---
 
 <script setup>
@@ -33,18 +33,18 @@ var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=t
 })
 </script>
 
-# Onze democratie is kapot. Wat nu?
-
-Grote problemen in Nederland worden niet opgelost. Politici luisteren niet naar burgers. Mensen zijn meer gepolariseerd dan ooit. Multinationals en miljardairs hebben het voor het zeggen. Wij hebben genoeg van politici die besluiten maken in achterkamertjes, en dineren met lobbyisten.
-
-We moeten weer met elkaar in gesprek gaan. Tijdens een [besluitgesprek](/besluitgesprek) komen gewone Nederlanders bij elkaar. Samen bepalen we hoe wij Nederland mooier gaan maken.
-
-We gaan zo veel mogelijk verschillende mensen bij elkaar brengen. We laten ons niet tegen elkaar uitspelen. Want samen staan we sterker. Dat doen we met creatieve, ludieke, innovatieve en geweldloze acties. En we gaan weer leren samenwerken.
-
-**Als eerste stap gaan we door heel Nederland gesprekken organiseren. En we gaan creatieve en ludieke acties doen om aandacht te krijgen. Doe jij mee?**
-
 # Blijf op de hoogte
 
 Meld je aan om op de hoogte te blijven van het Democratisch Verzet.
 
 <iframe data-tally-src="https://tally.so/embed/mZQjrB?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" height="351" frameborder="0" marginheight="0" marginwidth="0" title="Onze democratie is kapot. Wat nu?"></iframe>
+
+# Onze democratie is kapot. Wat nu?
+
+Onze democratie is kapot. De politiek luistert niet naar ons en Nederland zit op slot. Grote problemen worden niet opgelost. Mensen zijn meer gepolariseerd dan ooit. Multinationals en miljardairs hebben het voor het zeggen. Wij hebben genoeg van een politiek die besluiten maakt in achterkamertjes, en dineert met lobbyisten.
+
+Wij gaan weer naar elkaar luisteren. We willen gehoord worden, dus gaan we met elkaar in gesprek. We gaan weer leren samenwerken. Samen bepalen we hoe we Nederland mooier gaan maken.
+
+Nederland is van ons allemaal. Het is niet ok dat een klein groepje mensen de macht heeft. We gaan zo veel mogelijk verschillende mensen bij elkaar brengen. We laten ons niet tegen elkaar uitspelen. Want samen staan we sterker. We doen wat nodig is om échte verandering af te dwingen. Dat doen we met creatieve, ludieke, innovatieve en geweldloze acties.
+
+**Als eerste stap gaan we door heel Nederland gesprekken organiseren. En we gaan creatieve en ludieke acties doen om aandacht te krijgen. Doe jij mee?**

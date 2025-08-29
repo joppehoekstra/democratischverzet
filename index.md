@@ -36,21 +36,18 @@ var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=t
 
 const members = [
   {
-    avatar: '/img/joppe.jpeg',
-    name: 'Joppe',
-    title: 'Online marketeer',
-    desc: '"De hele wereld staat in de fik. Dat komt door de elite die zichzelf aan het verrijken is. Ik wil daar iets aan doen, maar voel me vaak machteloos. Democratisch Verzet is een plek waar ik kan bijdragen aan échte verandering."',
-  },
-  {
     avatar: '/img/danielle.jpg',
     name: 'Danielle',
     title: 'Beeldend kunstenaar',
     desc: '"Ik ben eigenlijk helemaal geen activist. Ik vind het belangrijk dat we weer met elkaar in gesprek gaan. Hier kan ik bijdragen aan die verbinding. Mensen en organisaties bij elkaar brengen, dat is wat ik het liefste doe."',
   },
+  {
+    avatar: '/img/joppe.jpeg',
+    name: 'Joppe',
+    title: 'Online marketeer',
+    desc: '"De hele wereld staat in de fik. Dat komt door de elite die zichzelf aan het verrijken is. Ik wil daar iets aan doen, maar voel me vaak machteloos. Democratisch Verzet is een plek waar ik kan bijdragen aan échte verandering."',
+  },
 ]
-
-// Randomize the order of team members
-members.sort(() => Math.random() - 0.5)
 </script>
 
 # Blijf op de hoogte

@@ -75,6 +75,11 @@ export default defineConfig({
         link: 'https://www.facebook.com/democratischverzet/',
       },
 
+      {
+        icon: 'linkedin',
+        link: 'https://www.linkedin.com/company/democratisch-verzet/',
+      },
+
       { icon: 'youtube', link: 'https://www.youtube.com/@democratischverzet' },
     ],
 

@@ -6,10 +6,10 @@ import posthog from 'posthog-js'
 import { onMounted } from 'vue'
 
 onMounted(() => {
-  posthog.init('phc_hJNoZFxoTQWKuyXv1BY8F7wdXSnNG82RETWiacs9jlV',
+  posthog.init('phc_ePWcvlGf6OZW3i4jh0OSthZpeqlyPcSDzqqknpM92MP',
     {
       ui_host: 'https://eu.posthog.com',
-      api_host: 'https://a.democratischverzet.nl',
+      api_host: 'https://data.democratischverzet.nl',
       person_profiles: 'identified_only' // or 'always' to create profiles for anonymous users as well
     }
   )

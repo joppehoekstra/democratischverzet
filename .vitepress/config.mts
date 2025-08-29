@@ -60,7 +60,7 @@ export default defineConfig({
     socialLinks: [
       {
         icon: 'whatsapp',
-        link: 'https://chat.whatsapp.com/Km6yyOdlPr5G2vcvmyfAKp',
+        link: 'https://democratischverzet.nl/whatsapp-invite',
       },
       {
         icon: 'substack',

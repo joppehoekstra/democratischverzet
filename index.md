@@ -14,7 +14,7 @@ hero:
       link: /over
     - theme: alt
       text: 💬 Ga in WhatsApp groep
-      link: https://chat.whatsapp.com/Km6yyOdlPr5G2vcvmyfAKp
+      link: https://democratischverzet.nl/whatsapp-invite
 
 features:
   - title: '1️⃣ Onze democratie is kapot'

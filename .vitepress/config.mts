@@ -70,6 +70,11 @@ export default defineConfig({
         icon: 'instagram',
         link: 'https://www.instagram.com/democratischverzet/',
       },
+      {
+        icon: 'facebook',
+        link: 'https://www.facebook.com/democratischverzet/',
+      },
+
       { icon: 'youtube', link: 'https://www.youtube.com/@democratischverzet' },
     ],
 
